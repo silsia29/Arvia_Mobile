@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293282781939",
+    "project_id": "arviya-aa9f6",
+    "storage_bucket": "arviya-aa9f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293282781939:android:d7777cde538ad6f9fab586",
+        "android_client_info": {
+          "package_name": "com.unimal.arviya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW3NnuKy0deRgGcyMc32H5SxPB4tfpV6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

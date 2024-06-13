@@ -1,0 +1,32 @@
+name: arviya
+description: "A new Flutter project."
+publish_to: "none" 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_maps_flutter: ^2.3.0
+  google_maps_webservice: ^0.0.14
+  http: ^0.13.6
+  fl_chart: ^0.67.0
+  image_picker: ^0.8.4+4
+  firebase_core: ^2.27.0
+  firebase_messaging: ^14.7.19
+  flutter_local_notifications: ^9.8.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/Designer.png
